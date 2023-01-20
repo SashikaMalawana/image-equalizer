@@ -1,0 +1,11 @@
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\bin\Debug\Assignment01Question05.exe.config
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\bin\Debug\Assignment01Question05.exe
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\bin\Debug\Assignment01Question05.pdb
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\obj\Debug\Assignment01Question05.csprojAssemblyReference.cache
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\obj\Debug\Assignment01Question05.Form1.resources
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\obj\Debug\Assignment01Question05.Properties.Resources.resources
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\obj\Debug\Assignment01Question05.csproj.GenerateResource.cache
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\obj\Debug\Assignment01Question05.csproj.CoreCompileInputs.cache
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\obj\Debug\Assignment01Question05.csproj.CopyComplete
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\obj\Debug\Assignment01Question05.exe
+C:\Users\SASHIKA\Documents\Visual Studio 2019\Projects\Assignment01Question05\Assignment01Question05\obj\Debug\Assignment01Question05.pdb
